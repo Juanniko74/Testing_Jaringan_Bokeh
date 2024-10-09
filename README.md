@@ -1,4 +1,4 @@
-# PeriodFriend Apps
+# TestingJaringan_Bokeh
 Project untuk visuaslisasi testing jaringan menggunakan python dan library bokeh
 
 ## Requirement
